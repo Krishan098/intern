@@ -173,3 +173,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 \jigsaw-toxic-comment-train.csv
+\summary.py
